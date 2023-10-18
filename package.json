@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "13.5.4",
+    "random-word-generator": "^0.9.9",
+    "random-words": "^2.0.0",
+    "random-words-es": "^1.1.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "13.5.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "eslint": "^8",
